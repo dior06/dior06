@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/profile-banner.svg" alt="Диёр Султанов" width="100%" />
+  <img src="assets/profile-banner.png" alt="Диёр Султанов" width="100%" />
 </p>
 
 <p align="center">
