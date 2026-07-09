@@ -46,24 +46,21 @@
     <circle cx="1040" cy="118" r="6"/>
   </g>
 
-  <rect x="78" y="62" width="322" height="38" rx="19" fill="#102B3A" stroke="#24566A"/>
+  <rect x="78" y="62" width="260" height="38" rx="19" fill="#102B3A" stroke="#24566A"/>
   <text x="104" y="86" fill="#8CECF7" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="18" font-weight="700">
-    DATA / PRODUCT ANALYTICS
+    FCS HSE / PROJECTS
   </text>
 
   <text x="76" y="155" fill="#F8FAFC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="54" font-weight="800">
     Диёр Султанов
   </text>
   <text x="78" y="202" fill="#C7D4DF" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="26" font-weight="500">
-    Python · SQL · BI · Statistics · Applied ML
-  </text>
-  <text x="78" y="242" fill="#8BA3B2" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="20" font-weight="500">
-    Делаю данные понятными: от подготовки и гипотез до моделей, дашбордов и выводов.
+    Applied Math & Computer Science
   </text>
 
   <g opacity="0.95">
     <rect x="836" y="248" width="88" height="34" rx="17" fill="#0F2E3A" stroke="#276275"/>
-    <text x="861" y="270" fill="#BDEFF7" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="700">EDA</text>
+    <text x="856" y="270" fill="#BDEFF7" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="700">CODE</text>
     <rect x="936" y="248" width="88" height="34" rx="17" fill="#0F2E3A" stroke="#276275"/>
     <text x="960" y="270" fill="#BDEFF7" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="700">SQL</text>
     <rect x="1036" y="248" width="88" height="34" rx="17" fill="#0F2E3A" stroke="#276275"/>
